@@ -6,7 +6,8 @@
 
 - ✨ Learning Cloud DevOps and automation at [egFWD](https://egfwd.com/specializtion/aws-cloud-devops/?)
 - 💡 Learning CCNA, MSCA and RedHat at [ITI](https://iti.gov.eg/)
-- 💡 Applying knowledge with AWS and G-Cloud
+- 💡 Applying on AWS and G-Cloud
+- 🤖 ERC22-remote finalist [ERC](https://roverchallenge.eu/en/main-page/)
 - 🍑 What about this?
 
 ##### BIO
