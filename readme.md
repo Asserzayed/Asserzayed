@@ -13,7 +13,7 @@
 ##### BIO
 
 - 🎓 I'm a Senior Electronics and Communication Engineeing Student at Alexandria University
-- 🏢 I'm currently working at **Mind Cloud Robotics**
+- 🏢 I'm currently working at [**Mind Cloud Robotics**](
 - ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.bat`, `.py`
 - 🌍 I'm mostly on Linked-In [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
 - 🌱 Learning all about **Networks** !
