@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an aspiring Network Engineer and Robotics enthusiast based in Alexandria, Egypt.
+#### I'm a Jr Network Engineer and Robotics enthusiast based in Alexandria, Egypt.
 
 ##### NOW
 
