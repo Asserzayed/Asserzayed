@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Jr Network Engineer and Robotics enthusiast based in Alexandria, Egypt.
+#### I'm a Jr DevOps Engineer and Robotics enthusiast based in Alexandria, Egypt.
 
 ##### NOW
 
@@ -13,6 +13,7 @@
 
 - 🎓 I'm an Electronics and Communication Engineeing Alex Uni Fresh Grad.
 - 🏢 I'm currently working as Head of Software at **Mind Cloud Robotics**
+- 🤖 ROS and Linux basics tutor
 - ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.json`, `.py`
 - 🌍 I'm mostly on Linked-In [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
 - 🌱 Learning all about **Networks, DevOps** !
