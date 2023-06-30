@@ -4,17 +4,16 @@
 
 ##### NOW
 
-- ✨ Learning Cloud DevOps and automation at [egFWD](https://egfwd.com/specializtion/aws-cloud-devops/?)
-- 💡 Learning CCNA, MSCA and RedHat at [ITI](https://iti.gov.eg/)
+- ✨ Chasing Jr System Admin/DevOps roles
 - 💡 Applying on AWS and G-Cloud
-- 🤖 ERC22-remote finalist [ERC](https://roverchallenge.eu/en/main-page/)
+- 🤖 ERC23-remote contender [ERC](https://roverchallenge.eu/en/main-page/)
 - 🍑 What about this?
 
 ##### BIO
 
-- 🎓 I'm a Senior Electronics and Communication Engineeing Student at Alexandria University
-- 🏢 I'm currently working at **Mind Cloud Robotics**
-- ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.bat`, `.py`
+- 🎓 I'm an Electronics and Communication Engineeing Alex Uni Fresh Grad.
+- 🏢 I'm currently working as Head of Software at **Mind Cloud Robotics**
+- ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.json`, `.py`
 - 🌍 I'm mostly on Linked-In [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
-- 🌱 Learning all about **Networks** !
-- ⚡️ Fun fact: I'm a big poetry and classical music fan
+- 🌱 Learning all about **Networks, DevOps** !
+- ⚡️ Fun fact: I'm a big poetry and rock music fan
