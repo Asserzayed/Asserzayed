@@ -11,6 +11,6 @@
 - 🎓 Electronics and Communication Engineer.
 - 🏢 I'm _former_ Head of Software at **Mind Cloud Robotics**
 - ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.py`
-- 🌍 I'm mostly on Linked-In [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
+- 🌍 I'm mostly on LinkedIn [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
 - ⚡️ 1xAWS Certified `CCP`, ...
 - 🌱 Learning all about **Networks, System Design and DevOps** !
