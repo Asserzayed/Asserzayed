@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-#### I'm a Jr DevOps Engineer based in Alexandria, Egypt.
+#### I'm a Junior Systems Engineer based in Alexandria, Egypt.
 
 ##### NOW
 
-- ⚡️ Learning abt System Engineering and HPC
+- ⚡️ Learning about System Engineering and HPC
 
 ##### BIO
 
 - 🎓 Electronics and Communication Engineer.
-- 🏢 I'm _former_ Head of Software at **Mind Cloud Robotics**
+- 🐳 Working with `Docker`, `K8s`, `Terraform`
 - ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.py`
 - 🌍 I'm mostly on LinkedIn [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
-- ⚡️ 1xAWS Certified `CCP`, ...
-- 🌱 Learning all about **Networks, System Design and DevOps** !
+- ⚡️ 1xAWS Certified `CCP`, ...`SAA in progress..`
+- 🌱 Interested all about **System Design and DevOps** !
