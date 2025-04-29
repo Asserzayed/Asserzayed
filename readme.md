@@ -9,7 +9,7 @@
 ##### BIO
 
 - 🎓 Electronics and Communication Engineer.
-- 🐳 Working with `Docker`, `K8s`, `Terraform`
+- 🐳 Working with `Docker`, `K8s`, `Terraform`, `Ansible`
 - ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.py`
 - 🌍 I'm mostly on LinkedIn [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
 - ⚡️ 1xAWS Certified `CCP`, ...`SAA in progress..`
