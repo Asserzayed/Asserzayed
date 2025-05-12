@@ -14,4 +14,4 @@
 - 🐳 I work with  `Terraform`, `Ansible`, `Docker`, `K8s`
 - ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.py`
 - ⚡️ 1xAWS Certified `CCP`, ...`SAA in progress..`
-- 🌱 Interested about **Cluster Management, Well-architected systems and DevOps Methodologies** !
+- 🌱 Interested about **HPC Cluster Management, Well-architected systems and DevOps Methodologies** !
