@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-#### I'm a Junior Systems Engineer based in Alexandria, Egypt.
+#### I'm an HPC Systems Engineer based in Alexandria, Egypt.
 
 ##### NOW
 
-- ⚡️ Learning about System Engineering and HPC
+- ⚡️ Learning cluster(s) operations, cluster-managers, `xCAT`, `SLURM`, `...`
 
 ##### BIO
 
 - 🎓 Electronics and Communication Engineer.
-- 🐳 Working with `Docker`, `K8s`, `Terraform`, `Ansible`
+- 🐳 I work with  `Terraform`, `Ansible`, `Docker`, `K8s`
 - ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.py`
 - 🌍 I'm mostly on LinkedIn [asser-zayed](https://www.linkedin.com/in/asser-zayed/)
 - ⚡️ 1xAWS Certified `CCP`, ...`SAA in progress..`
-- 🌱 Interested all about **System Design and DevOps** !
+- 🌱 Interested about **Cluster Management, Well-architected systems and DevOps Methodologies** !
