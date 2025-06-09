@@ -6,12 +6,10 @@
 
 ##### NOW
 
-- ⚡️ Learning cluster(s) operations, cluster-managers, `xCAT`, `SLURM`, `...`
+- ⚡️ Learning cluster(s) operations, cluster-managers, `xCAT`, `SLURM`, `BeeGFS`, `Lustre`, `...`
 
 ##### BIO
 
 - 🎓 Electronics and Communication Engineer.
-- 🐳 I work with  `Terraform`, `Ansible`, `Docker`, `K8s`
-- ⚙️ I use daily: `.json`, `.yml`, `.sh`, `.py`
 - ⚡️ 1xAWS Certified `CCP`, ...`SAA in progress..`
-- 🌱 Interested about **HPC Cluster Management, Well-architected systems and DevOps Methodologies** !
+- 🌱 Interested about **HPC Cluster Management, Well-architected systems and DevOps** !
